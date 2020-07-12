@@ -1,0 +1,24 @@
+2020-07-12 00:36:54,672 ERROR restartedMain                    - HealthIndicator (class org.springframework.boot.actuate.health.DataSourceHealthIndicator)check fail. And the status is[DOWN]; the detail is: {"error":"org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null"}
+2020-07-12 00:36:54,673 ERROR restartedMain                    - Readiness check HealthIndicator result: fail.
+2020-07-12 00:36:54,673 ERROR restartedMain                    - first phase of the readiness check result: fail
+2020-07-12 00:36:54,673 ERROR restartedMain                    - Readiness check result: fail
+2020-07-12 00:38:34,626 ERROR restartedMain                    - HealthIndicator (class org.springframework.boot.actuate.health.DataSourceHealthIndicator)check fail. And the status is[DOWN]; the detail is: {"error":"org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null"}
+2020-07-12 00:38:34,626 ERROR restartedMain                    - Readiness check HealthIndicator result: fail.
+2020-07-12 00:38:34,626 ERROR restartedMain                    - first phase of the readiness check result: fail
+2020-07-12 00:38:34,626 ERROR restartedMain                    - Readiness check result: fail
+2020-07-12 00:41:09,806 ERROR restartedMain                    - HealthIndicator (class org.springframework.boot.actuate.health.DataSourceHealthIndicator)check fail. And the status is[DOWN]; the detail is: {"error":"org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null"}
+2020-07-12 00:41:09,806 ERROR restartedMain                    - Readiness check HealthIndicator result: fail.
+2020-07-12 00:41:09,806 ERROR restartedMain                    - first phase of the readiness check result: fail
+2020-07-12 00:41:09,806 ERROR restartedMain                    - Readiness check result: fail
+2020-07-12 00:43:36,287 ERROR restartedMain                    - HealthIndicator (class org.springframework.boot.actuate.health.DataSourceHealthIndicator)check fail. And the status is[DOWN]; the detail is: {"error":"org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null"}
+2020-07-12 00:43:36,287 ERROR restartedMain                    - Readiness check HealthIndicator result: fail.
+2020-07-12 00:43:36,287 ERROR restartedMain                    - first phase of the readiness check result: fail
+2020-07-12 00:43:36,287 ERROR restartedMain                    - Readiness check result: fail
+2020-07-12 00:45:17,672 ERROR restartedMain                    - HealthIndicator (class org.springframework.boot.actuate.health.DataSourceHealthIndicator)check fail. And the status is[DOWN]; the detail is: {"error":"org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is java.sql.SQLException: The url cannot be null"}
+2020-07-12 00:45:17,673 ERROR restartedMain                    - Readiness check HealthIndicator result: fail.
+2020-07-12 00:45:17,673 ERROR restartedMain                    - first phase of the readiness check result: fail
+2020-07-12 00:45:17,673 ERROR restartedMain                    - Readiness check result: fail
+2020-07-12 01:00:16,532 ERROR restartedMain                    - HealthIndicator (class org.springframework.boot.actuate.health.DataSourceHealthIndicator)check fail. And the status is[DOWN]; the detail is: {"error":"java.lang.IllegalArgumentException: dataSource or dataSourceClassName or jdbcUrl is required."}
+2020-07-12 01:00:16,532 ERROR restartedMain                    - Readiness check HealthIndicator result: fail.
+2020-07-12 01:00:16,532 ERROR restartedMain                    - first phase of the readiness check result: fail
+2020-07-12 01:00:16,532 ERROR restartedMain                    - Readiness check result: fail
